@@ -1,5 +1,9 @@
 # Ignorer les dossiers
 B03/
+Scripts/
+Lib/
+.vscode/
+include/
 images/
 B03_Code_Infos
 SV/
