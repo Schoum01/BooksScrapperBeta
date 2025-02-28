@@ -1,4 +1,3 @@
-#création environement virtuel
 # BooksScrapperBeta
 
 ## Détails des scripts disponibles :
