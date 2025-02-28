@@ -1,11 +1,11 @@
 # Ignorer les dossiers
-B03/
-Scripts/
-Lib/site-packages/
-.vscode/
-include/
-images/
+/B03
+/Scripts
+/Lib/site-packages
+/.vscode
+/include
+/images
 B03_Code_Infos
-SV/
+/SV
 /env
 *.csv
